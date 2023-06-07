@@ -18,3 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=tyasha-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>
+  Hello World
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE0cHZyM2d6a3c5ZHVnemk1MnNkYWdhdW9kcDVzeTFpaDl3YjkzZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yo1whaKkz38ME/giphy.gif" width="30px"/>
+</h1>
+
