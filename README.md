@@ -58,7 +58,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 <div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tyasha-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tyasha&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 
