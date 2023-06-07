@@ -29,3 +29,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwZWJhZjEyZDNiMjZjM2U5MGE1YWFhZjMzZTAyYmM3NTQ3OWFhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### :man_technologist: About Me :
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: Learning Java.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/яков-бяков-14609a26b/)
