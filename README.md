@@ -37,4 +37,4 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/яков-бяков-14609a26b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tyasha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/яков-бяков-14609a26b/)
